@@ -1,0 +1,27 @@
+{
+  "id": "./",
+  "name": "বাণিয়াপাড়া নিউ যুব ইস্পোর্টশন ক্লাব",
+  "short_name": "বাণিয়াপাড়া ক্লাব",
+  "description": "ক্লাবের সদস্য, সাপ্তাহিক চাঁদা ও আয়-ব্যয়ের হিসাব",
+  "lang": "bn-BD",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f3f6fb",
+  "theme_color": "#10233f",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
